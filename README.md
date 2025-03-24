@@ -1,7 +1,3 @@
-<!-- markdownlint-disable MD030 -->
-
-![Langflow logo](./docs/static/img/langflow-logo-color-black-solid.svg)
-
 
 [![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases)
 [![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)
